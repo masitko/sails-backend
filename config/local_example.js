@@ -57,7 +57,4 @@ module.exports = {
   },
   port: 5037,
   environment: 'development',
-  log: {
-    level: 'info'
-  }
 };
